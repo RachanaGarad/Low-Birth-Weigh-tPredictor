@@ -1,4 +1,4 @@
-# Low-Birth-Weigh-tPredictor
+# Low-Birth-Weight Predictor
 
 **Objective**
 To predict low birth weight using a dataset containing a variety of maternal and paternal factors, employing machine learning techniques to develop an accurate predictive model.
